@@ -69,4 +69,5 @@ import lombok.Data;
   第六步：编写 listStudent.jsp 文件，用于获得数据库中的数据
   运行结果如下  
 ![](./pic/liststudent.png)  
-以 [我没有三颗心脏]https://www.cnblogs.com/wmyskxz/p/9010832.html）为参考
+
+以 [我没有三颗心脏]（https://www.cnblogs.com/wmyskxz/p/9010832.html）为参考
