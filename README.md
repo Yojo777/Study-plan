@@ -1,4 +1,4 @@
-~~~~# Spring-boot学习计划
+# Spring-boot学习计划
 
 ### 1.spring-boot
 | 阶段 | 项目计划 |
