@@ -70,4 +70,4 @@ import lombok.Data;
   运行结果如下  
 ![](./pic/liststudent.png)  
 
-以 [我没有三颗心脏]（https://www.cnblogs.com/wmyskxz/p/9010832.html）为参考
+学习参考: [我没有三颗心脏]（https://www.cnblogs.com/wmyskxz/p/9010832.html）
