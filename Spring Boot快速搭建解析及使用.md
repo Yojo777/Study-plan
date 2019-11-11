@@ -68,4 +68,5 @@ import lombok.Data;
   第五步：新建一个【controller】包，然后在其下创建一个 StudentController类，作为入口  
   第六步：编写 listStudent.jsp 文件，用于获得数据库中的数据
   运行结果如下  
-![](./pic/liststudent.png)
+![](./pic/liststudent.png)  
+以 [我没有三颗心脏]https://www.cnblogs.com/wmyskxz/p/9010832.html）为参考
