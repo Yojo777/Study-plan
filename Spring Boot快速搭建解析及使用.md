@@ -46,7 +46,7 @@ Spring Boot 项目通常有一个名为 *Application 的入口类，入口类里
                                                                                                                                  
  3.修改 HelloController  
  4.新建 hello.jsp 文件 
- 运行结果如下
+ 运行结果如下  
 ![](./pic/hello2.png)
  - 集成 MyBatis  
  第一步：修改 pom.xml 增加对 MySql和 MyBatis 的支持   
@@ -67,5 +67,5 @@ import lombok.Data;
   第四步:建一个 Mapper包，和映射类 StudentMapper
   第五步：新建一个【controller】包，然后在其下创建一个 StudentController类，作为入口  
   第六步：编写 listStudent.jsp 文件，用于获得数据库中的数据
-  运行结果如下
+  运行结果如下  
 ![](./pic/liststudent.png)
