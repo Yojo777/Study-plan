@@ -20,5 +20,3 @@
   ![](./pic/源码.png)
 >- 收获：1.复习了java SE的注解；2.了解了idea新建项目的操作，事实上idea基本是全自动的，一直next到所有文件夹都生成好给你，这与eclipse有较大的区别，我们只需要在已有的结构上添加即可；3.进一步了解了spring-boot的结构，例如发现maven整合了jar包；4.结合昨天运行的demo界面，有一点点灵感可以通过不断添加开发模块将helloworld转变成为多功能的界面。
 
-###### 参考: [我没有三颗心脏]（https://www.cnblogs.com/wmyskxz/p/9010832.html）搭建解析及使用spring-boot
-> 具体步骤 [https://github.com/Yojo777/Study-plan]./Spring Boot快速搭建解析及使用.md
