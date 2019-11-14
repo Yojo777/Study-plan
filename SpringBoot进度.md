@@ -1,9 +1,8 @@
 ###### 1.教程学习
 > 1.1 spingboot教程
->> 点击 [www](./spingboot教程学习.md)  
->
+> 点击  [www](./spingboot教程学习.md)  
 > 2.1搭建解析及使用spring-boot  
->> 点击 [www](SpringBoot快速搭建解析及使用.md)
+> 点击 [www](SpringBoot快速搭建解析及使用.md)
 ###### 2.项目经历
 > 2.1 运行开源项目的demo
 >>点击 [www](./运行开源项目的maven_demo.md)  
